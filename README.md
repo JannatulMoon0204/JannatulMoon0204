@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JannatulMoon0204
-- 👀 I’m interested in learning statistical modeling
+- 👋 Hi, I’m Jannatul Ferdous 
+- 👀 Currently, I am working on the application of agent-based models in analysing animal habitat preference with a changing landscape. 
 
 
 
